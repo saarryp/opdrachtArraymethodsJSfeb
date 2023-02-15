@@ -1,0 +1,15 @@
+h1 {color: deepskyblue;
+    font-size: 50px;
+}
+
+p {color: lightseagreen;
+font-size: 30px;}
+
+.itemOne {
+    color: red;
+    fontsize: 20px;
+}
+
+.itemTwo {
+    color: red;
+}
